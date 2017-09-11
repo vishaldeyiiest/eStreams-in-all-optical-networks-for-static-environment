@@ -22,7 +22,7 @@
 ## Results
 - Results computed by heuristics in polynomial time are very close to optimal. 
 
-## Future Work
+## Published Work
 - Paper on this work titled "An Offline Scheme for Reducing Cost of Protection in All-Optical
-  WDM Mesh Networks with Fast Recovery" is under peer review in International Journal of Parallel, 
+  WDM Mesh Networks with Fast Recovery" is accepted in International Journal of Parallel, 
   Emergent and Distributed Systems, Taylor and Francis, UK.
